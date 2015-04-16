@@ -1,0 +1,17 @@
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\bin\Debug\ComicPanelReader.exe.config
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\bin\Debug\ComicPanelReader.exe
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\bin\Debug\ComicPanelReader.pdb
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\obj\Debug\ComicPanelReader.csprojResolveAssemblyReference.cache
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\obj\Debug\MainWindow.baml
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\obj\Debug\MainWindow.g.cs
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\obj\Debug\App.g.cs
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\obj\Debug\ComicPanelReader_MarkupCompile.cache
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\obj\Debug\ComicPanelReader.g.resources
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\obj\Debug\ComicPanelReader.Properties.Resources.resources
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\obj\Debug\ComicPanelReader.csproj.GenerateResource.Cache
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\obj\Debug\ComicPanelReader.exe
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\obj\Debug\ComicPanelReader.pdb
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\bin\Debug\Newtonsoft.Json.dll
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\bin\Debug\SharpCompress.dll
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\obj\Debug\ComicPanelReader_Content.g.cs
+E:\Radno\WIN projekti\ComicPanelReader\ComicPanelReader\bin\Debug\WriteableBitmapEx.Wpf.dll
