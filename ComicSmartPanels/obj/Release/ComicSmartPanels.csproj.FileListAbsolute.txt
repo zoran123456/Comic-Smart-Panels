@@ -1,0 +1,27 @@
+G:\Zoran Radno\ComicSmartPanels\bin\Release\hand.ico
+G:\Zoran Radno\ComicSmartPanels\bin\Release\Newtonsoft.Json.dll
+G:\Zoran Radno\ComicSmartPanels\bin\Release\SharpCompress.dll
+G:\Zoran Radno\ComicSmartPanels\obj\Release\ComicSmartPanels.CPDInfo.resources
+G:\Zoran Radno\ComicSmartPanels\obj\Release\ComicSmartPanels.DrawPanelGrid.resources
+G:\Zoran Radno\ComicSmartPanels\obj\Release\ComicSmartPanels.MainForm.resources
+G:\Zoran Radno\ComicSmartPanels\obj\Release\ComicSmartPanels.Properties.Resources.resources
+G:\Zoran Radno\ComicSmartPanels\obj\Release\ComicSmartPanels.csproj.GenerateResource.Cache
+G:\Zoran Radno\ComicSmartPanels\bin\Release\Comic Panels Creator.exe.config
+G:\Zoran Radno\ComicSmartPanels\bin\Release\Comic Panels Creator.exe
+G:\Zoran Radno\ComicSmartPanels\bin\Release\Comic Panels Creator.pdb
+G:\Zoran Radno\ComicSmartPanels\obj\Release\Comic Panels Creator.exe
+G:\Zoran Radno\ComicSmartPanels\obj\Release\Comic Panels Creator.pdb
+G:\Zoran Radno\ComicSmartPanels\obj\Release\ComicSmartPanels.csprojResolveAssemblyReference.cache
+G:\Zoran Radno\ComicSmartPanels\obj\Release\ComicSmartPanels.About.resources
+E:\Radno\WIN projekti\ComicSmartPanels\bin\Release\Comic Smart Panels Creator.exe.config
+E:\Radno\WIN projekti\ComicSmartPanels\bin\Release\hand.ico
+E:\Radno\WIN projekti\ComicSmartPanels\bin\Release\Comic Smart Panels Creator.exe
+E:\Radno\WIN projekti\ComicSmartPanels\bin\Release\Comic Smart Panels Creator.pdb
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Release\ComicSmartPanels.About.resources
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Release\ComicSmartPanels.CPDInfo.resources
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Release\ComicSmartPanels.DrawPanelGrid.resources
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Release\ComicSmartPanels.MainForm.resources
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Release\ComicSmartPanels.Properties.Resources.resources
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Release\ComicSmartPanels.csproj.GenerateResource.Cache
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Release\Comic Smart Panels Creator.exe
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Release\Comic Smart Panels Creator.pdb

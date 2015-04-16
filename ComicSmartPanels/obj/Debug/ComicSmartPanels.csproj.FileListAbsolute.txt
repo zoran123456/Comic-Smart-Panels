@@ -1,0 +1,29 @@
+G:\Zoran Radno\ComicSmartPanels\bin\Debug\ComicSmartPanels.exe.config
+G:\Zoran Radno\ComicSmartPanels\bin\Debug\ComicSmartPanels.exe
+G:\Zoran Radno\ComicSmartPanels\bin\Debug\ComicSmartPanels.pdb
+G:\Zoran Radno\ComicSmartPanels\obj\Debug\ComicSmartPanels.Properties.Resources.resources
+G:\Zoran Radno\ComicSmartPanels\obj\Debug\ComicSmartPanels.csproj.GenerateResource.Cache
+G:\Zoran Radno\ComicSmartPanels\obj\Debug\ComicSmartPanels.exe
+G:\Zoran Radno\ComicSmartPanels\obj\Debug\ComicSmartPanels.pdb
+G:\Zoran Radno\ComicSmartPanels\bin\Debug\hand.ico
+G:\Zoran Radno\ComicSmartPanels\obj\Debug\ComicSmartPanels.csprojResolveAssemblyReference.cache
+G:\Zoran Radno\ComicSmartPanels\obj\Debug\ComicSmartPanels.DrawPanelGrid.resources
+G:\Zoran Radno\ComicSmartPanels\obj\Debug\ComicSmartPanels.MainForm.resources
+G:\Zoran Radno\ComicSmartPanels\bin\Debug\SharpCompress.dll
+G:\Zoran Radno\ComicSmartPanels\bin\Debug\eye.png
+G:\Zoran Radno\ComicSmartPanels\bin\Debug\eyeNo.png
+G:\Zoran Radno\ComicSmartPanels\bin\Debug\Newtonsoft.Json.dll
+G:\Zoran Radno\ComicSmartPanels\obj\Debug\ComicSmartPanels.CPDInfo.resources
+E:\Radno\WIN projekti\ComicSmartPanels\bin\Debug\hand.ico
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Debug\ComicSmartPanels.csprojResolveAssemblyReference.cache
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Debug\ComicSmartPanels.About.resources
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Debug\ComicSmartPanels.CPDInfo.resources
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Debug\ComicSmartPanels.DrawPanelGrid.resources
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Debug\ComicSmartPanels.MainForm.resources
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Debug\ComicSmartPanels.Properties.Resources.resources
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Debug\ComicSmartPanels.csproj.GenerateResource.Cache
+E:\Radno\WIN projekti\ComicSmartPanels\bin\Debug\Comic Smart Panels Creator.exe.config
+E:\Radno\WIN projekti\ComicSmartPanels\bin\Debug\Comic Smart Panels Creator.exe
+E:\Radno\WIN projekti\ComicSmartPanels\bin\Debug\Comic Smart Panels Creator.pdb
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Debug\Comic Smart Panels Creator.exe
+E:\Radno\WIN projekti\ComicSmartPanels\obj\Debug\Comic Smart Panels Creator.pdb
